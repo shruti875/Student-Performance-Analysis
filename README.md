@@ -103,10 +103,9 @@ student-performance-analysis/
 ## ⚙️ How to Run
 
 ```bash
-git clone <your-repo-link>
+git clone <(https://github.com/shruti875/Student-Performance-Analysis)>
 cd student-performance-analysis
 pip install pandas numpy matplotlib seaborn
-
 you can run this in notebook or vs code
 jupyter notebook
 ```
